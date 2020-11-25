@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: rangzone.github.io
+  repo: rangzone/rangzone.github.io
   branch: master
   site_domain: rangzone.netlify.app
 
