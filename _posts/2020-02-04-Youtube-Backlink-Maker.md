@@ -8,7 +8,7 @@ category: Tools
 summary: Free Download Youtube Backlink Generator APK for Android
 keywords: youtube backlink,free youtube backlinks,youtube backlink
   generator,youtube backlink maker
-thumbnail: https://camo.githubusercontent.com/6a61de0352a22f4c2a502be6bb97835908d9317c2d87750f2d65347a91a5aba7/68747470733a2f2f692e6962622e636f2f376e70547362592f3438302d332e6a7067
+thumbnail: /assets/img/posts/480-3.png
 permalink: /blog/-Youtube-Backlink-Maker/
 usemathjax: true
 ---
