@@ -4,7 +4,7 @@ author: rangzone
 title: Asbax ID Aplikasi Nonton Film Gratis Subtitle Indonesia kualitas HD APK Android app
 date: 2020-12-16 14:35:23 +0530
 category: Entertainment
-summary: Nonton Film Gratis Subtitle Indonesia kualitas HD & Acara TV (serial: season, episode)  Drama Anim dan lainnya semua ada! dengan aplikasi Streaming Film Online gratis
+summary: Nonton Film Gratis Subtitle Indonesia kualitas HD Acara TV Drama Anim dan lainnya semua ada! dengan aplikasi Streaming Film Online gratis
 keywords: Nonton Film Gratis,Nonton Film Gratis android, streaming film gratis,streaming movie,nonton film sub indo
 permalink: /blog/asbax-apk-nonton-film-gratis-sub-indo/
 usemathjax: true
@@ -20,7 +20,7 @@ AsbaX-ID adalah mesin pencari Film berdasarkan API TMDB, Aplikasi akan memperbar
 
 <a href="https://play.google.com/store/apps/details?id=asbax.nontonfilmgratis.app" target="_blank"><img alt="watch movie free apk android app" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
 
-"Harap DIBACA" (karena Aplikasi sifatnya OTOMATIS)
+Harap DIBACA (karena Aplikasi sifatnya OTOMATIS)
 Tips:
 - jangan pilih film yang terlalu baru/lama sudah rilis nya, atau belum dirilis.
 - untuk tv shows kebanyakan masih dengan subtitle bahasa inggris
