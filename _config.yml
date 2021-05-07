@@ -3,7 +3,7 @@ subtitle: simple powerful modern android apps for free
 description: >- # this means to ignore newlines until "baseurl:"
   free android apps built with rapid development tools visual basic .NET
 
-url: "https://rangzone.my.id" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://rangga.men" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
@@ -28,7 +28,7 @@ author: Rangga
 author_bio: Hi, my name is Rangga. I built some simple android apps.
 author_email: "rwdhana@gmail.com"
 author_location: Indonesia
-author_website_url: "https://rangzone.github.io"
+author_website_url: "https://rangga.men"
 typewrite-text: create simple powerfull modern android apps..
 
 # Experiences
