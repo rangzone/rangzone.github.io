@@ -2,7 +2,7 @@
 name: rangga
 username: rangzone
 bio: "Hi I a rangga, a Web Developer and Designer."
-site: https://rangzone.github.io
+site: https://rangga.men
 avatar: johndoe.png
 email: rwdhana@gmail.com
 social:
