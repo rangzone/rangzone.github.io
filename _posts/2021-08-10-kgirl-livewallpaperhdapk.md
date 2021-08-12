@@ -13,7 +13,7 @@ usemathjax: true
 
 Free Animated Hot Asian Korean Cute Girl Video Wallpaper HD android app apk
 
-<img src="https://play-lh.googleusercontent.com/dVqDK_yX1Lw1yJ3TzskwIAgQoXp5zW8Ia6h3CxNs0b_RMK55FCC_XhVXAa8PhE7ThsZe=w720-h310-rw" width="342" height="167"/>
+<img src="https://play-lh.googleusercontent.com/dVqDK_yX1Lw1yJ3TzskwIAgQoXp5zW8Ia6h3CxNs0b_RMK55FCC_XhVXAa8PhE7ThsZe=w720-h310-rw" />
  
 <a href="https://play.google.com/store/apps/details?id=freeanimated.asiankorean.hotgirlvideo.livewallpapers" target="_blank"><img alt="Download Hot Girl Live Wallpaper HD Android App Apk" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
 
