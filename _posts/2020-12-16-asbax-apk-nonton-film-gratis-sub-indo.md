@@ -1,7 +1,7 @@
 ---
 layout: post
 author: rangzone
-title: Asbax ID Aplikasi Nonton Film Gratis Subtitle Indonesia kualitas HD APK Android app
+title: LK21xii Aplikasi Nonton Film Gratis Subtitle Indonesia kualitas HD APK Android app
 date: 2020-12-16 14:35:23 +0530
 category: Entertainment
 summary: Nonton Film Gratis Subtitle Indonesia kualitas HD Acara TV Drama Anim dan lainnya semua ada! dengan aplikasi Streaming Film Online gratis
@@ -12,13 +12,13 @@ usemathjax: true
 
 # Asbax ID Aplikasi Nonton Film Gratis Subtitle Indonesia kualitas HD APK Android app
 
-Nonton Film Gratis Subtitle Indonesia kualitas HD & Acara TV (serial: season, episode) , Drama, Anim dan lainnya semua ada! dengan aplikasi Streaming Film Online gratis bernama AsbaX ID - Movie Finder.
+Nonton Film Gratis Subtitle Indonesia kualitas HD & Acara TV (serial: season, episode) , Drama, Anim dan lainnya semua ada! dengan aplikasi Streaming Film Online gratis bernama LK21xii - Movie Finder.
 
-AsbaX-ID adalah mesin pencari Film berdasarkan API TMDB, Aplikasi akan memperbarui film baru secara otomatis .. sehingga Anda tidak akan melewatkannya. Produk ini menggunakan API TMDb tetapi tidak didukung atau disertifikasi oleh TMDb.
+LK21xii adalah mesin pencari Film berdasarkan API TMDB, Aplikasi akan memperbarui film baru secara otomatis .. sehingga Anda tidak akan melewatkannya. Produk ini menggunakan API TMDb tetapi tidak didukung atau disertifikasi oleh TMDb.
 
 <img src="https://i.postimg.cc/VsVtytP5/promo-copy.png" width="500" height="250" />
 
-<a href="https://play.google.com/store/apps/details?id=asbax.nontonfilmgratis.app" target="_blank"><img alt="watch movie free apk android app" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
+<a href="https://play.google.com/store/apps/details?id=lk21xxi.nontonfilm.subindo" target="_blank"><img alt="watch movie free apk android app" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
 
 Harap DIBACA (karena Aplikasi sifatnya OTOMATIS)
 Tips:
