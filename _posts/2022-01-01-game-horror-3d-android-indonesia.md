@@ -1,12 +1,12 @@
 ---
 layout: post
 author: rangzone
-title: SetanZ Game Horror 3D android indonesia
-date: 2022-01-01 14:35:23 +0530
+title: game horror indonesia 3d Android App Apk
+date: 2022-01-1 14:35:23 +0530
 category: Entertainment
-summary: SetanZ: Puri Angker game horror android indonesia 3d seram dan menakutkan
-keywords: horror,game,android
-permalink: /blog/SetanZ-Game-Horror-3D-android/
+summary: game horror indonesia 3d Android App Apk
+keywords: game horror indonesia 3d
+permalink: /blog/game-horror-indonesia-3d/
 usemathjax: true
 ---
 #SetanZ Game Horror 3D android indonesia
