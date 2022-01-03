@@ -16,3 +16,14 @@ SetanZ: Puri Angker game horror indonesia 3d seram dan menakutkan, banyak hantu 
 <img src="https://play-lh.googleusercontent.com/GTO-8oAaDogVfiqBokzffKlJxllHDu7Sz6KUjKOXexZeZeqkIsT3dsf7uKNtlOrzvrc=w720-h310-rw" width="144" height="240"/>
 
 <a href="https://play.google.com/store/apps/details?id=com.RangZone.SetanZPuriAngker" target="_blank"><img alt="Game Horror 3D android indonesia Apk" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
+
+game horror indonesia pc
+game horror indonesia android
+game horor indonesia terbaik
+game horror indonesia android offline
+game horror buatan indonesia
+game horror dari indonesia
+download game horror indonesia android apk
+game horror pc buatan indonesia
+download game horror indonesia pc
+download game horror indonesia pc gratis
